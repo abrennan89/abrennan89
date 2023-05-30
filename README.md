@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+<!---
+<div align="center">
+  <img src="https://media.giphy.com/media/26ybvRzJrDKvVl8R2/giphy.gif" width="200" height="200"/>
+</div>
+
 **abrennan89/abrennan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
