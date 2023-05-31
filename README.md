@@ -3,4 +3,5 @@
 </div>
 
 ## Skills and interests
-![My Skills](https://skills.thijs.gg/icons?i=md,git,kubernetes,html,css&theme=light)
+
+[![My Skills](https://skills.thijs.gg/icons?i=md,html,css,atom,kubernetes,openshift,linux&theme=light)](https://skillicons.dev/)
