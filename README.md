@@ -3,4 +3,4 @@
 </div>
 
 ## Skills and interests
-[![My Skills](https://skills.thijs.gg/icons?i=md,git,kubernetes,html,css&theme=light)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=md,git,kubernetes,html,css&theme=light)
